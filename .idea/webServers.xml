@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d39b965-89e3-49db-9fbe-dc5e4877a853" name="lider-torg.sitearsenal.ru" url="http://141.8.194.149">
+        <fileTransfer host="141.8.194.149" port="21" rootFolder="/domains/sitearsenal.ru/public_html/lider-torg/core/elements">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
